@@ -1,0 +1,20 @@
+BoschSensorUtils.o: \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\BoschSensorUtils.cpp \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/SensorBuildOpt.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/SensorBuildOptUser.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhi3.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhi3_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhi3_multi_tap.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhi3.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhi3_multi_tap_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_klio.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_klio_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_swim.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_swim_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_bsec.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_head_tracker.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src/bosch/bhi260x/bhy2_head_tracker_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\BoschSensorUtils.hpp

@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\oscar\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:twatchs3",
+  "hardwareFolders": "C:\\Users\\oscar\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\4.0.0-alpha1,C:\\Users\\oscar\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\4.0.0-alpha1",
+  "otherLibrariesFolders": "c:\\Users\\oscar\\OneDrive\\Pivot\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\oscar\\OneDrive\\Watch\\OScore\\software\\interface\\home"
+}

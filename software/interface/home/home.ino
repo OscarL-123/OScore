@@ -1,4 +1,4 @@
-// OScore home screen for the LILYGO T-Watch S3 Plus.
+// OScore home screen for the LILYGO T-Watch S3.
 
 #include <LilyGoLib.h>
 #include <LV_Helper.h>

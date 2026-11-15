@@ -1,0 +1,35 @@
+tas5805m.o: \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\LilyGoLib\src\bsp_codec\device\tas5805m\tas5805m.c \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_rom/include/esp_rom_sys.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/soc/esp32s3/include/soc/reset_reasons.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/soc/esp32s3/include/soc/soc_caps.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/soc/include/soc/soc_caps_eval.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_config.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_level.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_assert.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_color.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_buffer.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_timestamp.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_write.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_format.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_args.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_macros.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_assert.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_compiler.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_log_attr.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_attr.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/log/include/esp_private/log_attr.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/device/include/tas5805m_dac.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/interface/audio_codec_if.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/include/esp_codec_dev_types.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_common/include/esp_err.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_libc/platform_include/stdio.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/interface/audio_codec_ctrl_if.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/interface/audio_codec_gpio_if.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/include/esp_codec_dev_vol.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/include/esp_codec_dev_types.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\LilyGoLib\src\bsp_codec\device\tas5805m\tas5805m_reg.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\LilyGoLib\src\bsp_codec\device\tas5805m\tas5805m_reg_cfg.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/include/esp_codec_dev_os.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/LilyGoLib/src/bsp_codec/include/esp_codec_dev_vol.h

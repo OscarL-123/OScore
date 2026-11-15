@@ -1,0 +1,22 @@
+bhi360_hif.o: \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_hif.c \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/SensorBuildOpt.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/SensorBuildOptUser.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_hif.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_system_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_activity_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_bsec_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_bsx_algo_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_head_orientation_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_multi_tap_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_event_data.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_event_data_defs.h \
+ C:\Users\oscar\AppData\Local\Arduino15\packages\esp32\tools\esp32s3-libs\4.0.0-alpha1/include/esp_libc/platform_include/stdio.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_phy_sensor_ctrl_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_virtual_sensor_conf_param_defs.h \
+ c:\Users\oscar\OneDrive\Pivot\Arduino\libraries\SensorLib\src\bosch\bhi36x\bhi360_virtual_sensor_info_param_defs.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/bosch/bhi260x/bhy2_defs.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/bosch/bhi260x/bhy2_hif.h \
+ c:/Users/oscar/OneDrive/Pivot/Arduino/libraries/SensorLib/src/bosch/bhi260x/bhy2_defs.h
